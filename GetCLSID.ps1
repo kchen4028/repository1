@@ -1,6 +1,7 @@
 <#
 This script extracts CLSIDs and AppIDs related to LocalService.DESCRIPTION
 Then exports to CSV
+Credit to ophe/juicy-potato
 #>
 
 $ErrorActionPreference = "Stop"
